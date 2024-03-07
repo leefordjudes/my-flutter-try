@@ -26,7 +26,7 @@ Flutter Version:  3.19.2
         <img src="./screen_shots/5.png" alt="5" width = 250px height = 400px>
     </td>
     <td>
-        <img src="./screen_shots/6.png" alt="6" width = 288px height = 400px>
+        <img src="./screen_shots/6.png" alt="6" width = 250px height = 400px>
     </td>
   </tr>
   <tr>
@@ -37,7 +37,7 @@ Flutter Version:  3.19.2
         <img src="./screen_shots/8.png" alt="8" width = 250px height = 400px>
     </td>
     <td>
-        <img src="./screen_shots/9.png" alt="9" width = 288px height = 400px>
+        <img src="./screen_shots/9.png" alt="9" width = 250px height = 400px>
     </td>
   </tr>
   <tr>
@@ -48,7 +48,7 @@ Flutter Version:  3.19.2
         <img src="./screen_shots/11.png" alt="11" width = 250px height = 400px>
     </td>
     <td>
-        <img src="./screen_shots/12.png" alt="12" width = 288px height = 400px>
+        <img src="./screen_shots/12.png" alt="12" width = 250px height = 400px>
     </td>
   </tr>
   <tr>
