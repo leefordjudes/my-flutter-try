@@ -57,6 +57,62 @@ Flutter Version:  3.19.2
     </td>    
   </tr>
 </table>
+*-continue with widgets....
+# Widgets Used
+    1. ProviderScope, Provider, 
+       StateProvider, StateProvider.autoDispose, StateNotifierProvider, StateNotifier
+    2. ConsumerWidget, WidgetRef - stateless widget
+       ConsumerStatefulWidget, ConsumerState - stateful widget 
+    3. Equtable, copyWith, 
+    4. FlexThemeData, FlexScheme, ...
+    4. GoogleFonts
+    5. GlobalKey, NavigatorState
+    6. GoRouter, GoRoute, GoRouterState
+    7. SafeArea, TextEditingController, SingleChildScrollView
+    8. Gap
+    9. DateFormat
+    10. Stack
+    11. InkWell, onTap, onLongPress
+    12. ScaffoldMessenger, SnackBar, AlertDialog
+    13. MediaQuery
+
+# Concepts
+    1. Providers from Riverpod
+    2. Project Structure
+    3. Private Constructor
+    4. Custom AppTheme
+    5. Using Google fonts
+    6. Navigation using routes
+    7. Using Sqflite database - platform based initialization,
+       converting bool into int,
+    8. Repository pattern - interface & implementation
+    9. Formatting dates & times
+    10. Generating fromJson, toJson, copyWith using Dart data class generator
+    11. extension on build context
+        getting deviceSize, textTheme, colorScheme
+    12. Helper functions
+    13. enum, enum-constructor, enum-properties, enum-fromString
+    14. @immutable class
+
+# packages
+    1. equatable
+    2. flex_color_scheme
+    3. flutter_riverpod
+    4. font_awesome_flutter
+    5. gap
+    6. go_router
+    7. google_fonts
+    8. intl
+    9. path
+    10. sqflite
+    11. path_provider
+    12. sqflite_common_ffi
+
+# Extensions used in vscode
+    1. Dart
+    2. Flutter
+    3. Dart Data Class Generator
+    4. Flutter Color
 
 # reference:
 https://www.youtube.com/watch?v=vfhbCSTxi74
